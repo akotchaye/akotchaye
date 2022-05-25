@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @akotchaye
 - 👀 I’m interested in .Net/core developpement and data analysis
 - 🌱 I’m currently learning Talend Data Integration and Power BI
-- 💞️ I’m looking to collaborate on software | Data ingineering or analysis project.
+- 💞️ I’m looking to collaborate on software or Data engineering project.
 - 📫 How to reach me: akotchaybatcho@gmail.com
 
 <!---ddd
