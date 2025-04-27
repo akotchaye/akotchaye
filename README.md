@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @akotchaye
 - 👀 I’m a data enthusiast
-- 🌱view my profile and skills on linkedin "akotchaye batcho"
+- 🌱view my profile and skills on linkedin "jean-luc batcho"
 - 💞️ I’m available for any Data engineering project.
 - 📫 How to reach me: akotchaybatcho@gmail.com
 
